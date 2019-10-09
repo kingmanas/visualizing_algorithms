@@ -1,5 +1,5 @@
 # Visualizing Algorithms
-View online at [visualizing_algorithms@kingmanas.github.com](https://visualizing_algorithms@kingmanas.github.com)
+View online at [kingmanas.github.com/visualizing_algorithms](https://kingmanas.github.com/visualizing_algorithms)
 
 Making javascript canvas which simulates numerous algorithms using p5.js library mostly.
 

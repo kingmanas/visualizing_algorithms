@@ -7,7 +7,7 @@ var dict = {};
 
 function setup() {
     createCanvas(windowWidth, windowHeight);
-    for (var i = 1; i <= windowWidth/2; i+=2) {
+    for (var i = 1; i <= windowWidth; i+=1) {
         var l = Math.floor(random(windowHeight));
         dict[l] = [random(0, 255), random(0, 255), random(0, 255)];
         values.push(l);

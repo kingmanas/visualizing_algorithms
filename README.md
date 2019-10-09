@@ -5,5 +5,5 @@ Making javascript canvas which simulates numerous algorithms using p5.js library
 
 ## Algorthms
 
-* Bubble Sort
-* Quick Sort
+* [Bubble Sort](https://kingmanas.github.io/visualizing_algorithms/Sorting/bubble_sort/index.html)
+* [Quick Sort](https://kingmanas.github.io/visualizing_algorithms/Sorting/quicksort/index.html)

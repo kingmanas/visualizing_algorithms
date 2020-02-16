@@ -1,7 +1,7 @@
 
 var angle = [];
 var d = 0, k, l, r;    
-var stack[]; 
+var stack = []; 
 
 function Drawn_Arc(begin_angle, end_angle, arc_colour) {
     this.begin_angle = begin_angle;
@@ -30,7 +30,7 @@ function partition(l, r) {
 }
 
 function draw() {
-    frameRate(60);    
+    frameRate(40);    
     if(stack.length == 0) noLoop();
 
     r = stack.pop(), l = stack.pop(); 

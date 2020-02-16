@@ -34,6 +34,7 @@ function draw() {
     if(stack.length == 0) noLoop();
 
     r = stack.pop(), l = stack.pop(); 
+    console.log(r + " " + l);
     let p = partition(arr, l, r); 
     if (p - 1 > l) { 
         stack.push(l); 
